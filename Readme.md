@@ -12,8 +12,8 @@
 ***
 
 ## 系统架构
-* 前端 bootstrap + JQuery
-* 后端 JSP
+* 前端 html+css+javascript   bootstrap + JQuery  Echarts 3.0
+* 后端 Spring Boot
 
 ## 特点
 * UI简约大气，方便使用
